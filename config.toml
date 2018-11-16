@@ -1,4 +1,12 @@
 baseURL = "http://45.76.50.18:80/"
 languageCode = "zh-CN"
-title = "My New Hugo Site"
+title = "还行的博客"
 theme="maupassant"
+
+[author]
+  name="李文强"
+
+[params]
+  author="李文强"
+  subtitle="学生"
+  
