@@ -1,0 +1,4 @@
+baseURL = "http://45.76.50.18:80/"
+languageCode = "zh-CN"
+title = "My New Hugo Site"
+theme="maupassant"
